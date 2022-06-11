@@ -1,0 +1,6 @@
+hello git-ssh login
+first make ssh-keygen
+copy public key from ~/.ssh/id_rsa.pub to github
+make github repository and get ssh url from github.
+in the local terminal git clone ssh_url .
+
